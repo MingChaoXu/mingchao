@@ -18,7 +18,7 @@ Syntax highlighted code block
 - Bulleted
 - List
 
-[1](https://github.com/MingChaoXu/mingchao/blob/master/interview_notebook.md#jekyll-themes)
+[1](https://github.com/MingChaoXu/mingchao/blob/master/interview_notebook.md)
 
 1. Numbered
 2. List
